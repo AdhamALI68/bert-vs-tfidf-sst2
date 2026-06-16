@@ -159,5 +159,5 @@ Computer Engineering student at The American University in Cairo (AUC)
 Concentration: Artificial Intelligence
 
 GitHub: [AdhamALI68](https://github.com/AdhamALI68)
-LinkedIn: [adham-ali](https://linkedin.com/in/adham-ali)
+LinkedIn: [adham-ali](https://www.linkedin.com/in/adham-ali804/)
 
