@@ -1,0 +1,23 @@
+# Deep learning
+torch>=2.2.0
+transformers>=4.40.0
+
+# Dataset loading
+datasets>=2.19.0
+
+# Classical ML and evaluation
+scikit-learn>=1.4.0
+
+# Data handling
+numpy>=1.26.0
+
+# Plotting
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Jupyter (to run the notebook locally)
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Note: google-colab package (drive, files) is only available inside Google Colab.
+# If you run this locally, the Colab-specific cells can be skipped safely.
